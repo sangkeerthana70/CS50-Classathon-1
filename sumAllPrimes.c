@@ -47,27 +47,4 @@ int sumPrimes(int number)
 }
 
 
-/*bool isPrime(int num){
- for (var n = 2; n < num; n++){
-   if(num % n == 0){
-     return false; //number is not prime
-   }
- }
- return true;
-}*/
-/*
-int sumPrimes(num) {
- int total = 0;
- for(int n = 2; n <= num; n++){
-   printf("iteration: %i\n", n);
-   if(isPrime(n)){
-     printf("is prime%c\n", n);
-     total = total + n;
-     continue;
-   }
-   eprintf("looping");
- }
- return total;
-}*/
-
 
